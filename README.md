@@ -1,4 +1,5 @@
 # Orthostatic Hypotension Questionnaire (OHQ)
+## Orthostatic Hypotension Questionnaire (OHQ) REDCap Instrument
 
 The Orthostatic Hypotension Questionnaire (OHQ) was developed, with two components: the six-item symptoms assessment scale and a four-item daily activity scale to assess the burden of **neurogenic orthostatic hypotension (NOH)** symptoms. Validation analyses were then performed on the two scales and a composite score of the OHQ.
 
