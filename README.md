@@ -5,3 +5,7 @@ The Orthostatic Hypotension Questionnaire (OHQ) was developed, with two componen
 Kaufmann, H., Malamut, R., Norcliffe-Kaufmann, L. et al. The Orthostatic Hypotension Questionnaire (OHQ): validation of a novel symptom assessment scale. Clin Auton Res 22, 79–90 (2012). [https://doi.org/10.1007/s10286-011-0146-2]
 
 This is a REDCap instrument implementation of Orthostatic Hypotension Questionnaire (OHQ)
+
+[!screenshot/OHQ_redcap_Capture-2024-07-17-142710.png]
+
+Download the compressed instrument from [redcap_instrument/] directory and import into your REDcap.
